@@ -1,3 +1,4 @@
+<img width="1600" height="900" alt="Lab 6" src="https://github.com/user-attachments/assets/14084cce-dbf8-4906-b581-f8aa4651034d" />
 # Lab 6 - Blending
 
 ## Ce face aplicatia
