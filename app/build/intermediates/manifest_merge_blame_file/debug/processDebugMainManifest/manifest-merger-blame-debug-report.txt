@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cg.blending"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <application
+11-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:3:5-10:19
+12        android:allowBackup="true"
+12-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:3:18-44
+13        android:debuggable="true"
+14        android:extractNativeLibs="true"
+15        android:label="Lab6 Blending"
+15-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:3:45-74
+16        android:supportsRtl="true"
+16-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:3:75-101
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:3:102-133
+19        <activity
+19-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:4:9-9:20
+20            android:name="cg.blending.BlendingActivity"
+20-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:4:19-51
+21            android:exported="true"
+21-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:4:52-75
+22            android:screenOrientation="portrait" >
+22-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:4:76-112
+23            <intent-filter>
+23-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:5:13-8:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:6:17-69
+24-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:6:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:7:17-77
+26-->C:\Users\junpi\OneDrive\Desktop\Grafica pe calculator Kardos Ervin\Laboratorul 6 Blending\app\src\main\AndroidManifest.xml:7:27-74
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>

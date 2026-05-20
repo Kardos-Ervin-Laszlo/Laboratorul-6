@@ -1,0 +1,2 @@
+cg.blending:style/AppTheme = 0x7f020000
+cg.blending:drawable/hedly = 0x7f010000

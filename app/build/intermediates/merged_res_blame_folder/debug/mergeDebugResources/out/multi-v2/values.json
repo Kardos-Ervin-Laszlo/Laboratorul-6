@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "cg.blending.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\junpi\\OneDrive\\Desktop\\Grafica pe calculator Kardos Ervin\\Laboratorul 6 Blending\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "260"
+                    }
+                }
+            ]
+        }
+    ]
+}

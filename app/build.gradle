@@ -1,0 +1,14 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'cg.blending'
+    compileSdk 33
+
+    defaultConfig {
+        applicationId 'cg.blending'
+        minSdk 21
+        targetSdk 33
+        versionCode 1
+        versionName '1.0'
+    }
+}
